@@ -5,12 +5,12 @@
 ##### my moto 
 ~ Learning and Implementing
  
-##### 2020 
+##### 2021 
 Goals ~ Contribute more to Open Source projects
 ##### Currently 
-Learning ! Php oop's
-##### 2020 skill's goals
-~ React , Vue.js
+Learning Node js
+##### 2021 skill's goals
+~ React , Vue.js,Angular
 
 ##### hobby
 Cycle ridding
