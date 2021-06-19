@@ -1,5 +1,1 @@
-<div align="center">
-	<br>
-		<img src="stats.svg" width="800" height="400" alt="Click to see the source">
-	<br>
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
