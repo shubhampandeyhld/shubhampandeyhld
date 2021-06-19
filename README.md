@@ -19,4 +19,4 @@ Cycle ridding
 - [Email](https://www.gmail/shubhampnd414@gmail.com)
 
 [](https://drive.google.com/file/d/1t39LjM9hqnnz7HmeViVOskHgoTT7wO2N/view?usp=sharing)
-<img src="stats.svg">
+<img src="stats.svg" width="100px" height="300px">
