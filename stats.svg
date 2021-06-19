@@ -1,91 +1,70 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
+			
+<body>
+<style>
+    .outer_container{
+        width:60%;
+        margin:auto;
+        border:8px solid black;
+    }
+    .name{
+        color:steelblue;
+    }
+    .info_continer{
+        padding:2rem;
+    }
 
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
+    .github{
+        padding: 1.5rem;
+    }
+    .github div img{
+        width: 100%;
+    }
+    .intro_text{
+        color:steelblue;
+    }
 
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
+</style>
+<div  class="outer_container">
+    <div class="info_container">
+        <h4 class="name"> 
+            Hi, <img src=""><br>
+        This  Shubham Pandey -</h4>
+        <div class="intro">
+            <p class="intro_text">
+                My passion is to develop Full Stack Application.
+            </p>
 
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
+            <div style="display: flex;" ><h4>Motto:</h4>
+                <h5>Learning and Implementing</h5>
+                </div>
 
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
-				}
+           
 
-				p {
-					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
-				}
-			</style>
-			<div class="container">
-				<h4 style="color:red">Shubham Pandey</h4>
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
-			</div>
-		</div>
+                <!-- stats-->
+                <div class="github">
+                    <div class="stats">
+             <img src="https://github-readme-stats.vercel.app/api?username=shubhampandeyhld&count_private=true&show_icons=true">
+             </div>
+             <div class="lang">
+            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampandeyhld">
+
+             </div>
+
+                </div>
+        </div>
+
+
+    </div>
+</div>
+
+<script>
+</script>
+
+
+</body>
+
 	</foreignObject>
 </svg>
