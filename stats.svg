@@ -2,6 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			
+			
 <style>
     .outer_container{
         width:60%;
@@ -26,8 +27,38 @@
     }
 
 </style>
-			
-			<h4>dcd</h4>
+<div  class="outer_container">
+    <div class="info_container">
+        <h4 class="name"> 
+            Hi, <img src=""><br>
+        This  Shubham Pandey -</h4>
+        <div class="intro">
+            <p class="intro_text">
+                My passion is to develop Full Stack Application.
+            </p>
+
+            <div style="display: flex;" ><h4>Motto:</h4>
+                <h5>Learning and Implementing</h5>
+                </div>
+
+           
+
+                <!-- stats-->
+                <div class="github">
+                    <div class="stats">
+             <img src="https://github-readme-stats.vercel.app/api?username=shubhampandeyhld&count_private=true&show_icons=true">
+             </div>
+             <div class="lang">
+            <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampandeyhld">
+
+             </div>
+
+                </div>
+        </div>
+
+
+    </div>
+</div>
 
 		</div>
 	</foreignObject>
